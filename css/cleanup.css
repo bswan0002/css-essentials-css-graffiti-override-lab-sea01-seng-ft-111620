@@ -16,15 +16,15 @@
   display: none;
 }
 
-#tag-5 {
+.parent #tag-5 {
   display: none;
 }
 
-#tag-6 {
+.parent #tag-6 {
   display: none;
 }
 
-#tag-7 {
+.parent #tag-7 {
   display: none;
 }
 
